@@ -1,2 +1,7 @@
 Hello! My name is Min Seo Jung.
-Kumoh National Institute of Technology..
+Kumoh National Institute of Technology.
+
+Computer Sciences
+C programming
+object-oriented programming
+
