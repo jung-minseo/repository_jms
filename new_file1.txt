@@ -3,5 +3,4 @@ Kumoh National Institute of Technology.
 
 Computer Sciences
 C programming
-object-oriented programming
-
+object-oriented programming.
